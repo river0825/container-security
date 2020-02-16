@@ -6,4 +6,4 @@ COPY ./ch01/package-lock_react.json /node-app/package-lock.json
 COPY ./ch01/Pipfile.lock /python-app/Pipfile.lock
 COPY ./ch01/Cargo.lock /rust-app/Cargo.lock
 
-EXPOSE 200000
+#EXPOSE 20000
